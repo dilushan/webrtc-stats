@@ -24,8 +24,7 @@
   "engines": {
     "node": ">=8"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.7",
@@ -39,6 +38,8 @@
     "rollup-plugin-typescript2": "^0.31.1",
     "standard": "^14.3.4",
     "typescript": "^3.9.7"
+  },
+  "devDependencies": {
   },
   "publishConfig": {
     "access": "public"
